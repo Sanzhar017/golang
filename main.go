@@ -5,7 +5,7 @@ import (
 	"fmt"
 )
 
-const pi = 3
+const pi = 332
 
 func main() {
 	printCircleArea(2)
